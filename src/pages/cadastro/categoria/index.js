@@ -16,5 +16,5 @@ function CadastroCategoria(){
     );
   }
 
-export default CadastroVideo;
+export default CadastroCategoria;
 
